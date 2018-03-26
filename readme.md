@@ -2,7 +2,7 @@
 
 Es una aplicación de venta y reserva de pasajes de autobús de diferentes compañías. Nuestro valor agregado fue entregar una personalización enfocada en la seguridad, confianza y comodidad según el interés del usuario.
 
-![Inicio app](https://user-images.githubusercontent.com/32288156/37928017-e2cf225e-3111-11e8-992a-8fa53bed5f4c.png)
+![Inicio app](https://user-images.githubusercontent.com/32288156/37928540-8a1dceec-3113-11e8-9d97-6db051160b7c.png)
 
 ### **El reto**
 ***
