@@ -1,8 +1,8 @@
-### **SAFE TRAVEL**
-***
+# **SAFE TRAVEL**
+
 Es una aplicación de venta y reserva de pasajes de autobús de diferentes compañías. Nuestro valor agregado fue entregar una personalización enfocada en la seguridad, confianza y comodidad según el interés del usuario.
 
-![Inicio app](imagenes/safe-01.png)
+![Inicio app](https://user-images.githubusercontent.com/32288156/37928017-e2cf225e-3111-11e8-992a-8fa53bed5f4c.png)
 
 ### **El reto**
 ***
