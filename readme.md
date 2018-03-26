@@ -85,7 +85,8 @@ Con la aplicación que están proponiendo, me daría seguridad y confianza en qu
 ***
 Realizamos como grupo cada una sketches votando por cuál nos parecía más acorde con la problemática que queríamos resolver, Identificamos que era importante tener un buscador de acuerdo a las necesidades del usuario. En el tema de la seguridad si se cumple la velocidad límite por ejemplo, en confianza la puntualidad, comodidad la condición del bus. Todos estos datos se obtendría a través de una encuesta que se realiza al final del viaje. ha base sobre eso cada compañía tendría una puntuación. Los clientes serían usados como los fiscalizadores. 
 
-<a href="https://projects.invisionapp.com/share/Q5FJSUF2YNC#/screens/275899506_Boleta" style="color:pink"> Link primer prototipo </a>
+[](https://projects.invisionapp.com/share/Q5FJSUF2YNC#/screens/275899506_Boleta)
+
 ![](imagenes/wireframe-01.png)
 
 ### **Prototipado**
