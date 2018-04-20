@@ -71,17 +71,43 @@ Utilizamos la herramienta Customer Journey Map para conocer la experiencia y sus
 
 Luego de este ejercicio pudimos identificar que el hecho de que el bus no posee las mejores condiciones para viajar produce al usuario frustración e inseguridad en el transcurso del viaje.
 
-### **Ideación**
-***
-Realizamos como grupo cada una sketches votando por cuál nos parecía más acorde con la problemática que queríamos resolver, Identificamos que era importante tener un buscador de acuerdo a las necesidades del usuario. En el tema de la seguridad si se cumple la velocidad límite por ejemplo, en confianza la puntualidad, comodidad la condición del bus. Todos estos datos se obtendría a través de una encuesta que se realiza al final del viaje. ha base sobre eso cada compañía tendría una puntuación. Los clientes serían usados como los fiscalizadores. 
+### Problem Statement
 
-![](imagenes/wireframe-01.png)
+A partir del Customer Journey Map se definieron las principales necesidades de los usuarios.
+* {Alejandra} Necesita encontrar la información constante del viaje en el bus para sentirse más segura, cómoda y comunicárselo a sus seres queridos.
 
-### **Prototipado**
-***
-Cómo prototipo final, incluimos en la opción comunicar a un tercero a parte de la persona que se encuentre en el bus, así el otro usuario recibe información del bus sin estar arriba de él, si está por llegar al terminal o si presentó algún problema el viaje. Pensando en los clientes que viajen solo y necesite una atención especial, por ejemplo cuando viajan niños solos en el bus.
+### HMW / What if?
 
-<a href="https://marvelapp.com/136jga16/screen/38086057" style="color:pink"> prototipo </a>
+Luego del planteamiento del problema se definieron las preguntas claves ¿Cómo podríamos? (HMW) (What if?), estas preguntas sirvieron para entender más los problemas y desarrollar mejores hipótesis. 
+* Ayudar a nuestros usuarios a que obtengan más información sobre seguridad y confort en la experiencia de viajar.
+
+### What if? | ¿Qué pasaría si?
+
+* Acceso ranking de los buses. 
+* Que los usuarios puedan ser más específicos en su búsqueda. 
+* Que los usuarios obtengan notificaciones durante el viaje para compartirlo. 
+* Que se pueda ver la ubicación de nuestro bus. 
+
+# **Ideación**
+### Propuesta de valor
+
+Con la posible solución creamos una propuesta de valor de nuestro MVP:
+
+**“Somos una empresa que entrega las mejores opciones de acuerdo a tus preferencias, manteniendo tu confianza antes, durante y después del viaje.”**
+
+Realizamos nuestros primeros sketchs, cada integrante realizó un boceto que luego votamos por las partes que considerábamos más apto para nuestro MVP, luego realizamos nuestros primeros testeo en papel y en base sobre eso íbamos corrigiendo.  
+Iteramos y testeamos en reiterada ocasiones, para finalmente realizar el primer wireframes interactivos,[ver prototipo
+](https://marvelapp.com/bdh8hfe/screen/37790537)
+
+# **Prototipo y Testeo**
+
+Decidimos realizar una aplicación, ya que le avisa a un tercer usuario que no sea pasajero del bus, información del trayecto del viaje. Ya que va enfocado a usuarios que requieren más cuidado al momento de viajar por ejemplo: menores de edad, personas con alguna discapacidad. Por eso es importante nuestro MVP que tenga información de las compañías de buses, para comparar de acuerdo a los criterios de los usuarios en las categorías de seguridad, comodidad y confianza.
+
+Se realizó 5 testeo en los cuales se les asignó la tarea de viajar a un determinado lugar y filtrar de acuerdo a la seguridad, comodidad y confianza. Comprar un ticket para viajar. 
+
+Finalmente los usuarios comprendieron el enfoque de la aplicación, de poder comprar su ticket para viajar y poder filtrar de acuerdo a sus preferencias y lo más importante al momento de finalizar el viaje tener la opción de responder una encuesta para documentar la experiencia del viaje y tener más feedback de las distintas compañías.
+
+De esta manera llegamos al prototipo final realizado en Marvel App. <a href="https://marvelapp.com/136jga16/screen/38086057" style="color:pink"> ver prototipo </a>
 
 ### **Colaboradores**
 <a href="https://www.linkedin.com/in/mariaagustinavalenti/" style="color:pink">Maria Agustina Valenti</a> | 
