@@ -39,47 +39,37 @@ Ulteriormente se realizaron entrevistas con el objetivo de descubrir los posible
 * Se observó la falta de información de que empresa de buses era más seguro.
 * Incumplimiento de horarios en la llegada o en el transcurso del viaje, pérdida de bolsos, seguridad en el transcurso del viaje.
 
+### Research Cuantitativo
+**1. Benchmark**
+Análisis competitivos y comparativos de los principales empresas de buses de chile, conclusiones, deficiencia en muchos sitios web en el ámbito que no era claro cómo entregaban la información o no se encontraban operativos al momento de querer comprar ticket a diferencia en las redes sociales que si tenía una mayor actualización, responder de inmediato los mensajes, estár al día con la información entregada a los usuarios a diferencia en los sitios web. En las redes sociales, se pudo observar el descontento de muchos pasajeros, por la seguridad de los buses cómo no contaban con los cinturones de seguridad, la comodidad algunos casos no poseían la higiene mínima, horarios que no se cumplen entre otros. 
+
+**2. Encuesta Google**
+Se realizaron encuesta para conocer y entender los motivos por qué viaja más las personas, por cuales medios compran los tickets, si se sienten seguros al momento de viajar. 
+Con los datos obtenidos concluimos que la mayoría de los usuarios compran presencial los pasajes por seguridad, sienten desconfianza realizarlo en un sitio web. Los usuarios que respondieron que compran su tickets online, no presentaron problemas a comprar a través de internet. Los usuarios tienen frustración al momento de viajar sus  razones, varían desde: escasos boletos por temporada alta, mucha fila, tiempo de espera y operadores que atienden de mala manera, etc.
+
+![encuesta-01](https://user-images.githubusercontent.com/32288156/39069370-f327fee8-44b5-11e8-99e6-e438b9c31a34.png)
+
 
 # **Síntesis y definición**
+### Afinity Map - Diagrama de Afinidad
+Realizamos en equipo un ejercicio para sintetizar la información, se realizó un brainstorming. Para ordenar las ideas de los problemas que presentan los usuarios, estos datos los obtuvimos gracias a la investigación. Para posteriormente agruparlos según afinidad y similitud creando un Affinity Map.
 
-Realizamos como grupo **Diagrama de afinidad** para ordenar las ideas de los problemas que presentan los usuarios, estos datos los obtuvimos gracias a la investigación. Se agruparon los problemas en las siguientes categorías: **Seguridad, confort, precios, trayecto, interacción con trabajadores, confianza, formas de compra, puntualidad, frecuencia de buses, acceso y datos extras**.  Nos enfocamos en tres puntos que se repetían más en la problemática: **seguridad, confianza y comodidad**.
+Se agruparon los problemas en las siguientes categorías: **Seguridad, confort, precios, trayecto, interacción con trabajadores, confianza, formas de compra, puntualidad, frecuencia de buses, acceso y datos extras**.  Nos enfocamos en tres puntos que se repetían más en la problemática: **seguridad, confianza y comodidad.**
 
+![diagrama-afinidad](https://user-images.githubusercontent.com/32288156/39069441-2681371e-44b6-11e8-9b8a-e970682c3872.jpg)
 
-![diagrama de afinidad](imagenes/imagen-03-01.png)
+### User Personas - Arquetipos
+Elaboramos distintos User personas enfocados en los tres puntos más fuertes obtenidos del diagrama de afinidad para comprender más las necesidades de los usuarios al momento de realizar un viaje.
 
-Elaboramos distintos **User personas** enfocados en los tres puntos más fuertes obtenidos del diagrama de afinidad para comprender más las necesidades de los usuarios al momento de realizar un viaje.
+![arquetipo-01](https://user-images.githubusercontent.com/32288156/39069514-60045fca-44b6-11e8-9eb2-3dbe933f99a6.png)
 
-![user persona](imagenes/imagen-04-01.png)
-
-**Experiencia del usuario**
+### Customer Journey Map
 
 Utilizamos la herramienta Customer Journey Map para conocer la experiencia y sus etapas al momento de comprar un pasaje online, llegada al terminal, transcurso del viaje y final. Observamos los puntos críticos o frustración de un cliente. Primero al momento de escoger qué compañía se adecua de acuerdo a sus necesidades, obtener la información necesaria para elegir una compañía, llegada al terminal si recibe una atención amable de parte de los auxiliares del bus. Cómo observación debíamos realizar una solución en donde el usuario podría obtener información de diferentes compañías y ver si se adecuaban a las necesidades de seguridad, confianza y comodidad.
 
-![Customer Jorney](imagenes/mapa-01.png)
+![journey-map](https://user-images.githubusercontent.com/32288156/39069621-b44c6f8c-44b6-11e8-8b47-14dfd0ce4fbc.jpg)
 
-### **Problem Statement**
-***
-
-**{Alejandra}** Necesita encontrar la información constante del viaje en el bus para sentirse más segura, cómoda y comunicárselo a sus seres queridos.
-
-### **How Might We? | ¿Cómo podríamos?**
-
-Ayudar a nuestros usuarios a que obtengan más información sobre seguridad y confort en la experiencia de viajar.
-
-### **What if… | Qué pasaría si…**
-
-Acceso ranking de los buses. 
-Que los usuarios puedan ser más específicos en su búsqueda. 
-Que los usuarios obtengan notificaciones durante el viaje para compartirlo. 
-Que se pueda ver la ubicación de nuestro bus. 
-
-### **StoryTelling**
-
-"Hola soy Alejandra y viajo los fines de semana largos y en vacaciones de verano, uso buses para ir a ver a mi familia y amigos. Mi familia es muy preocupada, en todo momento quiere saber cómo estoy.
-Cuando viajo compro mis pasajes por internet y hay veces que me re-venden los pasajes, o el bus no está en buenas condiciones, no me gusta muchas veces la atención de los auxiliares.
-Me importa estar segura a bordo, saber que cuando compro un pasaje puedo subir tranquila, saber datos de cual es la mejor opción y si puedo tener beneficios más seguido. Si no me siento cómoda no me dan ganas de viajar y prefiero quedarme en casa.
-Si existiera una forma de saber esta información antes de subirme al bus y no descubrirlo a bordo, sería muy importante.
-Con la aplicación que están proponiendo, me daría seguridad y confianza en que el trayecto y la compra del pasaje será buena, sin duda aumenta mi frecuencia con la que viajó, Con el seguimiento de trayecto me da seguridad a mi y también le da tranquilidad a mi familia de que llegare bien y descansada"
+Luego de este ejercicio pudimos identificar que el hecho de que el bus no posee las mejores condiciones para viajar produce al usuario frustración e inseguridad en el transcurso del viaje.
 
 ### **Ideación**
 ***
