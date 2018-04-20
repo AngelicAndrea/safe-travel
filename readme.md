@@ -8,39 +8,25 @@ Es una aplicación de venta y reserva de pasajes de autobús de diferentes compa
 
 ![Inicio app](https://user-images.githubusercontent.com/32288156/39033120-db96821e-4446-11e8-9dc0-1f2f4db1f80d.png)
 
-### **El reto**
-***
-Nueva experiencia en empresas de buses, descubrir oportunidades para mejorar la experiencia de todos los usuarios de este tipo de transporte: horarios, embarques, desembarques, compra de tickets en los terminales, compra de tickets online, cancelaciones, cambios de pasajes, etc.
+## **Proceso de diseño**
+![proceso-diseno](https://user-images.githubusercontent.com/32288156/39068501-e0c1813c-44b2-11e8-8e92-65b70c057bd4.png)
 
-### **Mi rol**
-***
+## **Objetivo**
+Mejorar la experiencia actual que vive el usuario al momento de viajar en bus.
+
+## **Mi rol dentro del proyecto**
 Colabore en conjunto con mi Squad en todo el proyecto en la etapa de investigación, ideación, prototipado y testeo. 
 
-Realice el Benchmark analizando 6 empresas de buses del país, observando sus sitios web, redes sociales y reclamos. En conjunto aporte en la guía de entrevista y encuesta online.
+Realicé Research Cuantitativo: Benchmark analizando 6 empresas de buses del país, observando sus sitios web, redes sociales y reclamos. En conjunto aporte en la guía de entrevista y en la encuesta online.
 
-En la etapa de la ideación, en equipo realizamos el diagrama de afinidad, customer journey, user persona (ANA), wireframe.
+En la etapa de definición e ideación, en equipo realizamos el diagrama de afinidad, customer journey, arquetipos, propuesta de valor y los wireframe.
 
-En la etapa del prototipo fue en realizado en marvelapp y en equipo.
+En la etapa de prototipado en equipo traspasamos los wireframe hechos en papel y de acuerdo a la votación y testeo con usuarios a un prototipo interactivo y de alta fidelidad, el cual fue realizado en marvelapp.
 
-### **Colaboradores**
-***
+# **Descubrimiento e investigación**
+### Research Cualitativo
 
-<a href="https://www.linkedin.com/in/mariaagustinavalenti/" style="color:pink">Maria Agustina Valenti</a> | 
-<a href="https://www.linkedin.com/in/andrea-p%C3%A9rez-gonz%C3%A1lez/" style="color:pink">Andrea Pérez</a> | <a href="https://www.linkedin.com/in/nataliacancino/" style="color:pink">Natalia Cancino</a> | 
-<a href="https://www.linkedin.com/in/jazminmeneses/" style="color:pink">Jazmín Meneses</a> | 
-<a href="https://www.linkedin.com/in/sasha-aviles-calder%C3%B3n/" style="color:pink">Sasha Aviles</a>
 
-### **Descubrimiento e investigación**
-***
-El equipo se dividió en varias tareas, algunas realizaron el Benchmark, analizamos los sitios web nacionales de empresas de buses, conclusiones que observamos deficiencia en muchos sitios web en el ámbito que no era claro cómo entregaban la información o no se encontraban operativos al momento de querer comprar ticket a diferencia en las redes sociales si tenía una mayor importancia, marcaban presencia al responder de inmediato los mensajes, de estár al día con la comunicación con los clientes a diferencia en los sitios web. En las redes sociales, se pudo observar el descontento de muchos pasajeros, por la seguridad de los buses cómo no contaban con los cinturones de seguridad, la comodidad algunos casos no poseían la higiene minima, horarios que no se cumplian entre otros. 
-
-Las entrevista en los terminales de buses se observó la falta de información de que empresa de buses era más seguro, se observó incumplimiento de horarios en la llegada o en el transcurso del viaje, pérdida de bolsos, seguridad en el transcurso del viaje. Los pasajeros muchos se encontraban nerviosos por el hecho de no saber cómo se iba a presentar el transcurso del viaje, si respetan el límite de velocidad, se presentaba los cinturones de seguridad, entre otras cosas.
-
-![Entrevista Terminal San Borja](imagenes/imagen-01-01.png)
-
-La encuesta online que se realizó se difunde en las redes sociales, para obtener datos cuantitativos para la investigación. Con los datos obtenidos se concluye que la mayoría de los usuarios compran presencial los pasajes por seguridad sientes desconfianza realizarlo en un sitio web. Los usuarios que respondieron que compran su tickets online, no presentaron problemas a comprar a través de internet. Los usuarios que compran de manera presencial no tienen buena experiencia, sus  razones, varían desde: escasos boletos por temporada alta, mucha fila, tiempo de espera y operadores que atienden de mala manera, etc.
-
-![Encuesta online](imagenes/imagen-02-01.png)
 
 ### **Síntesis y definición**
 
@@ -95,3 +81,8 @@ Cómo prototipo final, incluimos en la opción comunicar a un tercero a parte de
 
 <a href="https://marvelapp.com/136jga16/screen/38086057" style="color:pink"> prototipo </a>
 
+### **Colaboradores**
+<a href="https://www.linkedin.com/in/mariaagustinavalenti/" style="color:pink">Maria Agustina Valenti</a> | 
+<a href="https://www.linkedin.com/in/andrea-p%C3%A9rez-gonz%C3%A1lez/" style="color:pink">Andrea Pérez</a> | <a href="https://www.linkedin.com/in/nataliacancino/" style="color:pink">Natalia Cancino</a> | 
+<a href="https://www.linkedin.com/in/jazminmeneses/" style="color:pink">Jazmín Meneses</a> | 
+<a href="https://www.linkedin.com/in/sasha-aviles-calder%C3%B3n/" style="color:pink">Sasha Aviles</a>
