@@ -12,8 +12,9 @@ Es una aplicación de venta y reserva de pasajes de autobús de diferentes compa
 ![proceso-diseno](https://user-images.githubusercontent.com/32288156/39068501-e0c1813c-44b2-11e8-8e92-65b70c057bd4.png)
 
 ## **Objetivo**
+```
 Mejorar la experiencia actual que vive el usuario al momento de viajar en bus.
-
+```
 ## **Mi rol dentro del proyecto**
 Colabore en conjunto con mi Squad en todo el proyecto en la etapa de investigación, ideación, prototipado y testeo. 
 
@@ -25,10 +26,21 @@ En la etapa de prototipado en equipo traspasamos los wireframe hechos en papel y
 
 # **Descubrimiento e investigación**
 ### Research Cualitativo
+Se realizó primero observaciones en los siguientes terminales de buses: Pajaritos, Ahumada, San Borja y Santiago. Para descubrir el comportamiento de los usuarios.
+
+* Los pasajeros por lo general se observaban nerviosos a la espera del bus.
+* Ansiosos y preocupados por no poseer mayor información y sólo les queda esperar.
+
+![terminal](https://user-images.githubusercontent.com/32288156/39069134-3c6d4aa0-44b5-11e8-96c1-17167e1ed3a5.jpg)
 
 
+Ulteriormente se realizaron entrevistas con el objetivo de descubrir los posibles problemas que se enfrentan los pasajeros durante el proceso de viaje. Querer indagar desde la hora de decidir dónde viajar, al momento de comprar el ticket, llegar al terminal, encontrar el bus, subir al bus y hasta llegar a destino. Para poder conocer mejor las necesidades de nuestros usuarios y resolver sus problemas de manera óptima. 
 
-### **Síntesis y definición**
+* Se observó la falta de información de que empresa de buses era más seguro.
+* Incumplimiento de horarios en la llegada o en el transcurso del viaje, pérdida de bolsos, seguridad en el transcurso del viaje.
+
+
+# **Síntesis y definición**
 
 Realizamos como grupo **Diagrama de afinidad** para ordenar las ideas de los problemas que presentan los usuarios, estos datos los obtuvimos gracias a la investigación. Se agruparon los problemas en las siguientes categorías: **Seguridad, confort, precios, trayecto, interacción con trabajadores, confianza, formas de compra, puntualidad, frecuencia de buses, acceso y datos extras**.  Nos enfocamos en tres puntos que se repetían más en la problemática: **seguridad, confianza y comodidad**.
 
