@@ -4,9 +4,9 @@ Es una aplicación de venta y reserva de pasajes de autobús de diferentes compa
 
 ![Inicio app](https://user-images.githubusercontent.com/32288156/37928540-8a1dceec-3113-11e8-9d97-6db051160b7c.png)
 ## Desarrollado para 
-[Laboratoria](https://marvelapp.com/136jga16/screen/38086057)
+[Flota de buses & Laboratoria](https://marvelapp.com/136jga16/screen/38086057)
 
-![Inicio app](imagenes/safe-01.png)
+![Inicio app](https://user-images.githubusercontent.com/32288156/39033120-db96821e-4446-11e8-9dc0-1f2f4db1f80d.png)
 
 ### **El reto**
 ***
